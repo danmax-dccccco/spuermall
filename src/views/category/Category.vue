@@ -1,12 +1,294 @@
 <template>
-  <h2>分类</h2>
+  <div class="wrapper" ref="aaa">
+    <ul class="content">
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+      <li>分类列表</li>
+    </ul>
+  </div>
 </template>
 
 <script>
+import BScroll from "better-scroll";
+
 export default {
   name: "Catefory",
+  data() {
+    return {
+      scroll:null
+    };
+  },
+  created() {
+
+  },
+  mounted(){
+    let scroll = new BScroll(('.wrapper'), {
+      probeType: 3,
+      pullUpLoad:true
+    });
+
+    scroll.on('scroll',position =>{
+      // console.log(position);
+    })
+
+    scroll.on('pullingUp',()=>{
+      console.log("++++");
+    })
+  }
 };
 </script>
 
 <style scoped>
+.wrapper {
+  height: 150px;
+  background-color: red;
+
+  overflow: hidden;
+  /* overflow-y: scroll; */
+}
 </style>
